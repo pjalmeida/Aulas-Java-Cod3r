@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.fundamentos;
 
 public class PrimeiroPrograma {
 	public static void main(String[] args) {

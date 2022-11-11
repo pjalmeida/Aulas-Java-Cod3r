@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.fundamentos;
 
 import org.w3c.dom.ls.LSOutput;
 
