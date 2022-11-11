@@ -11,7 +11,7 @@ public class Import {
         Date d = new Date();
         System.out.println(d);
 
-        //JButton botao = new JButton();
+        //JButton botao = new JButton(); usar botões
 
         /*A instrução import da linguagem Java tem como objetivo disponibilizar em uma classe,
         de um determinado pacote, o acesso a demais classes que estejam em pacotes diferentes.
